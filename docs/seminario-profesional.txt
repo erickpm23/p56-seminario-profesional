@@ -1,6 +1,0 @@
-UNUVERSIDAD POLITECNICA SALESIANA
-
-Seminario Profesional
-
-[1].- Git & Github - 21/09/2020
-[2].- Fundamentos de Javascript - 22/09/2020
