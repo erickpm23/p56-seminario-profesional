@@ -1,6 +1,6 @@
 const storage = require('./storage')
 
-function addDocente(nombre, apellido, correo_electronico, nivel){
+function addDocente(nombre, apellido, correo_electronico){
     return new Promise((resolve, reject) => {
         let docente = {
             nombre: nombre,
